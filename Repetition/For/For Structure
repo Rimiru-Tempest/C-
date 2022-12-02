@@ -1,0 +1,5 @@
+
+
+for(control variable ;initial value ;condition[Increment or decrement of initial value]){
+    Statements
+    }
