@@ -1,4 +1,4 @@
-/* Input two numbers and out the sum */
+/* Input two numbers and output the sum */
 #include<stdio.h>
 int main(){
     // declaring  variables
