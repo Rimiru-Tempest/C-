@@ -1,3 +1,4 @@
+/* Input two numbers and out the sum */
 #include<stdio.h>
 int main(){
     // declaring  variables
@@ -7,7 +8,6 @@ int main(){
 
     printf("Input number 1 : ");
     scanf("%d",&a);
-
     printf("Input number 2 : ");
     scanf("%d",&b);
 
